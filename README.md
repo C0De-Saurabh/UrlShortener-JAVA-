@@ -54,5 +54,5 @@ Visiting `http://localhost:8080/api/{shortCode}` will redirect to the original U
 
 ## 🎨 UI Preview
 
-![UI Preview](https://drive.google.com/file/d/159a8HRtW7WseBTVH1AiiEmfIl68N-APC/view?usp=sharing)
+![UI Preview](https://drive.google.com/uc?export=view&id=159a8HRtW7WseBTVH1AiiEmfIl68N-APC)
 
